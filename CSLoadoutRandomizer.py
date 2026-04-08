@@ -27,7 +27,7 @@ terrorist_primary_weapons = {"AWP": 4750,
                             }   
 ct_secondary_weapons = {"USP": 200, 
                         "DUAL-BERETTAS": 300, 
-                        "P250": 300, ""
+                        "P250": 300,
                         "FIVE-SEVEN": 500, 
                         "DESERT EAGLE": 700
                         }
